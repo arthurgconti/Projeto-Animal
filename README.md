@@ -11,10 +11,3 @@ This project is one manager of adoptions of animals.
 ## Preview
 ![Splash Screen](previewImages/Login.png)
 ![Splash Screen](previewImages/MenuPrincipal.png)
-## Como instalar?
-
-```
-git clone https://github.com/arthurgconti/Projeto-Animal/
-
-inicializar qualquer banco mysql e rodar o script animal-arthur.sql
-```
