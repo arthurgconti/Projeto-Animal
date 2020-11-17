@@ -9,12 +9,12 @@ This is one project developed in my last high school year, developed in Java and
 This project is one manager of adoptions of animals.
 
 ## Preview
-
+![Splash Screen](previewImages/Login.png)
+![Splash Screen](previewImages/MenuPrincipal.png)
 ## Como instalar?
 
 ```
 git clone https://github.com/arthurgconti/Projeto-Animal/
 
-inicializar qualquer banco mysql rodar o script animal-arthur.sql
-
+inicializar qualquer banco mysql e rodar o script animal-arthur.sql
 ```
