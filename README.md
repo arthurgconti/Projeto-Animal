@@ -1,5 +1,5 @@
 # Projeto-Animal
----
+
 **Pt-Br**
 Este é um projeto desenvolvido no meu terceiro ano do ensino médio, desenvolvido em Java  e MySql.
 O projeto basicamente é um gerenciador de adoções de animais.
