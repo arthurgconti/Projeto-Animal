@@ -9,7 +9,6 @@ This is one project developed in my last high school year, developed in Java and
 This project is one manager of adoptions of animals.
 
 ## Preview
-![Login Screen](C:\Users\Arthur Conti\Desktop)
 
 ## Como instalar?
 
