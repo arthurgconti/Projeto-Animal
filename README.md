@@ -8,7 +8,6 @@ O projeto basicamente é um gerenciador de adoções de animais.
 This is one project developed in my last high school year, developed in Java and MySql.
 This project is one manager of adoptions of animals.
 
----
 ## Como instalar?
 
 ```
